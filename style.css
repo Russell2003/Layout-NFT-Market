@@ -1,0 +1,276 @@
+html {
+    box-sizing: border-box;
+    font-size: 16px;
+  }
+  
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
+  
+  body, h1, h2, h3, h4, h5, h6, p, ol, ul {
+    margin: 0;
+    padding: 0;
+    font-weight: normal;
+  }
+  
+  ol, ul {
+    list-style: none;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+
+header {
+    display: block;
+}
+
+body {
+    font-family: 'Nunito', sans-serif;
+    width: 1428px;
+    height: 1117px;
+    background-color: #191D29;
+}
+
+
+nav li {
+    display: inline;
+    margin-right: 48px;
+}
+
+
+img.NFTGo {
+    display: block;
+    margin: 0px auto;
+    margin-top: -38px;
+}
+
+ul.Frame1 {
+    width: 400px;
+    margin-left: 199px;
+    margin-top: 40px;
+}
+
+ul.Frame2 {
+    width: 400px;
+    margin-left: 900px;
+    margin-top: -41px;
+}
+
+ul.Frame1 a {
+    font-size: 500;
+    font-size: 14px;
+    line-height: 16.8px;
+    text-decoration: none;
+    color: #FBFBF3;
+}
+
+ul.Frame2 a {
+    font-size: 500;
+    font-size: 14px;
+    line-height: 16.8px;
+    text-decoration: none;
+    color: #FBFBF3;
+}
+
+.Rectangle10 {
+    position: absolute;
+    width: 50px;
+    height: 10px;
+    margin-left: 200px;
+    margin-top: 60px;
+}
+
+h1.NFT_Market1 {
+    width: 800px;
+    font-weight: 900;
+    line-height: 153.56px;
+    margin-left: 287px;
+    margin-top: 95px;
+    font-size: 102px;
+    background-image: linear-gradient(99.46deg, #9DFE00 -10.9%, #14D9E6 97.14%);
+    background-color: #2AA5A0;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+ 
+h1.NFT_Market2 {
+    width: 800px;
+    font-weight: 900;
+    line-height: 153.56px;
+    margin-left: 287px;
+    margin-top: -157px;
+    font-size: 102px;
+    background-image: linear-gradient(99.46deg, #9DFE00 -10.9%, #14D9E6 97.14%);
+    background-color: #2AA5A0;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    filter: blur(65px);
+}
+
+h1.withSales {
+    font-weight: 600;
+    font-style: italic;
+    font-size: 98px;
+    line-height: 126px;
+    margin-top: -35px;
+    margin-left: 69px;
+    background-image: linear-gradient(90.94deg, #FBF8F3 2.21%, #EDFDD4 103.05%);
+    background-color: #2AA5A0;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.drip {
+    position: absolute;
+    width: 162px;
+    height: 152px;
+    margin-top: 45px;
+    margin-left: 15px;
+    filter: blur(0.1px);
+}
+
+.sale50 {
+    position: absolute;
+    width: 300px;
+    margin-left: 740px;
+    margin-top: -219px;
+}
+
+a.buy {
+    position: relative;
+    width: 120px;
+    font-weight: 500;
+    font-size: 20px;
+    margin-left: 67px;
+    line-height: 24px;
+    text-decoration: none;
+    font-style: normal;
+    color: #FBF8F3;
+    border: 1px solid chartreuse;
+    border-radius: 100px;
+    background: linear-gradient(99.46deg, #9DFE00 -10.9%, #14D9E6 97.14%);
+    padding: 14px 37px;
+    gap: 10px;
+}
+
+.buy {
+    margin-top: 20px;
+}
+
+a.gallery {
+    position: relative;
+    width: 100px;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    margin-left: 333px;
+    text-decoration: none;
+    font-style: normal;
+    color: #14D9E6;
+    border: 4px solid #14D9E6;
+    border-radius: 100px;
+    padding: 14px 37px;
+    gap: 10px;
+}
+
+.gallery {
+    margin-top: -21px;
+}
+
+p.description {
+    width: 700px;
+    height: 51px;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;
+    font-style: normal;
+    color: #14D9E6;
+    margin-left: 530px;
+    margin-top: -32px;
+}
+
+img.cat {
+    position: absolute;
+    width: 338px;
+    margin-left: 1000px;
+    margin-top: -400px;
+}
+
+img.кабан {
+    width: 467px;
+    height: 390px;
+    margin-top: 70px;
+}
+
+img.monkey {
+    width: 467px;
+    height: 390px;
+    margin-left: 99px;
+}
+
+.monkey {
+    position: relative;
+    margin-left: 200px;
+    margin-top: -193px;
+}
+
+img.dude {
+    width: 467px;
+    height: 390px;
+    margin-left: 600px;
+}
+
+.dude {
+    margin-top: -198px;
+}
+
+.Rectangle9 {
+    position: relative;
+    width: 80px;
+    margin-left: 1000px;
+    margin-top: -272px;
+}
+
+.down {
+    position: absolute;
+    width: 90px;
+    margin-left: 995px;
+    margin-top: -230px;
+}
+
+.more {
+    position: absolute;
+    width: 100px;
+    margin-left: 1055px;
+    margin-top: -230px;
+}
+
+.bob {
+    position: absolute;
+    margin-left: 930px;
+    margin-top: -382px;
+}
+
+.city {
+position: absolute;
+width: 1378px;
+height: 1107.88px;
+left: 0px;
+top: 0px;
+mix-blend-mode: normal;
+opacity: 0.1;
+}
+
+.rectangle {
+position: absolute;
+width: 178px;
+height: 1107.88px;
+left: 0px;
+top: 0px;
+mix-blend-mode: normal;
+opacity: 0.1;
+}
